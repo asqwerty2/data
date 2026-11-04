@@ -2533,5 +2533,11 @@
     "name": "AirBorneo",
     "callsign": "BORNEO",
     "virtual": false
+  }, 
+  {
+    "icao": "WMK",
+    "name": "Westmark Aviation",
+    "callsign": "WESTMARK",
+    "virtual": true
   }
 ]
